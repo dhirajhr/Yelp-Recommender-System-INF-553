@@ -1,6 +1,7 @@
 # Yelp Recommender System INF-553
 ## Yelp Dataset Description
-<br/> ### yelp academic dataset business.json : 188,593 records 
+### <br/> yelp academic dataset business.json : 188,593 records 
+<br/>  yelp academic dataset business.json : 188,593 records 
 <br/> Attributes: Business ID, address, name, city, Business hours, Categories, rating and reviews count
 <br/> yelp academic dataset review.json : 5,996,996 records
 <br/> Attributes: review ID, user ID, business ID, rating, comments
